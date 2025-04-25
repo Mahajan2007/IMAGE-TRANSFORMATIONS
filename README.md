@@ -77,8 +77,8 @@ cropped = image[0:200, 0:200]
 
 ```
 ## Output:
-![Uploading exp4op1.png…]()
 
+![exp4op1](https://github.com/user-attachments/assets/dea7ec18-5928-421e-a002-2fd03948dbaf)
 
 ### i)Image Translation
 
