@@ -79,61 +79,47 @@ cropped = image[0:200, 0:200]
 ## Output:
 ![Uploading exp4op1.png…]()
 
+
 ### i)Image Translation
-<br>
-<br>
+
 ![exp4op2](https://github.com/user-attachments/assets/0b7cbd74-750e-447d-8f2b-14162f3c599d)
 
-<br>
-<br>
+
 
 ### ii) Image Scaling
-<br>
-<br>
+
 ![exp4op4](https://github.com/user-attachments/assets/56372419-8e28-442f-850e-fff9fb9a7137)
 
-<br>
-<br>
+
 
 
 ### iii)Image shearing
-<br>
-<br>
+
 ![exp4op3](https://github.com/user-attachments/assets/6e5f0368-bcab-4402-bcfa-0b805e81afca)
 
-<br>
-<br>
+
 
 
 ### iv)Image Reflection
-<br>
-<br>
+
+
 ![exp4op5](https://github.com/user-attachments/assets/16af11ea-98b8-491c-8849-9779a7b9a569)
 
-<br>
+
 ![exp4op6](https://github.com/user-attachments/assets/be9777a2-ccfe-476f-8f80-89c90df83fca)
 
-<br>
 
 
 
 ### v)Image Rotation
-<br>
-<br>
 ![exp4op7](https://github.com/user-attachments/assets/f69dcb67-3384-4c52-90de-c47e3de2af72)
-
-<br>
-<br>
 
 
 
 ### vi)Image Cropping
-<br>
-<br>
 ![exp4op8](https://github.com/user-attachments/assets/12a4be72-93eb-4d28-be92-f4a8c69586af)
 
-<br>
-<br>
+
 
 
 
